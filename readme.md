@@ -8,7 +8,7 @@ Sandy Aoun, Varvara Arzt, Daniel Luger, Georg Vogeler. "Information Extraction f
 ### Contributions: 
 - Sandy Aoun: State of the art research; designing and coding of the experiment; writing the paper; preparing presentation and presenting the work at the conference
 - Varvara Arzt: Annotation of dataset; discussions related to final presentation and improvements
-- Daniel Luger: Insightly conversations about diplomatics and specific medieval charters abstracts in question
+- Daniel Luger: Insighful conversations about diplomatics and specific medieval charters abstracts in question
 - Georg Vogeler: Supervision of the work and giving very valuable feedback
 
 
